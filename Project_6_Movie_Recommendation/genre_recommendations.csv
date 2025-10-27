@@ -1,0 +1,51 @@
+title,avg_rating,num_ratings,genre
+Once Upon a Time in the West (C'era una volta il West) (1968),4.305555555555555,18,Action
+Logan (2017),4.28,25,Action
+Fight Club (1999),4.272935779816514,218,Action
+"Outlaw Josey Wales, The (1976)",4.25,18,Action
+"Dark Knight, The (2008)",4.238255033557047,149,Action
+"Princess Bride, The (1987)",4.232394366197183,142,Action
+Star Wars: Episode IV - A New Hope (1977),4.231075697211155,251,Action
+"Boondock Saints, The (2000)",4.22093023255814,43,Action
+Apocalypse Now (1979),4.219626168224299,107,Action
+Star Wars: Episode V - The Empire Strikes Back (1980),4.2156398104265405,211,Action
+"Philadelphia Story, The (1940)",4.310344827586207,29,Comedy
+Harold and Maude (1971),4.288461538461538,26,Comedy
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964),4.268041237113402,97,Comedy
+"Princess Bride, The (1987)",4.232394366197183,142,Comedy
+Pulp Fiction (1994),4.197068403908795,307,Comedy
+"Amelie (Fabuleux destin d'Amélie Poulain, Le) (2001)",4.183333333333334,120,Comedy
+Forrest Gump (1994),4.164133738601824,329,Comedy
+Monty Python and the Holy Grail (1975),4.161764705882353,136,Comedy
+In Bruges (2008),4.158536585365853,41,Comedy
+Snatch (2000),4.155913978494624,93,Comedy
+"Streetcar Named Desire, A (1951)",4.475,20,Drama
+Ran (1985),4.433333333333334,15,Drama
+"Shawshank Redemption, The (1994)",4.429022082018927,317,Drama
+Sunset Blvd. (a.k.a. Sunset Boulevard) (1950),4.333333333333333,27,Drama
+"Hustler, The (1961)",4.333333333333333,18,Drama
+Double Indemnity (1944),4.323529411764706,17,Drama
+"Philadelphia Story, The (1940)",4.310344827586207,29,Drama
+Once Upon a Time in the West (C'era una volta il West) (1968),4.305555555555555,18,Drama
+Lawrence of Arabia (1962),4.3,45,Drama
+In the Name of the Father (1993),4.3,25,Drama
+Logan (2017),4.28,25,Sci-Fi
+Star Wars: Episode IV - A New Hope (1977),4.231075697211155,251,Sci-Fi
+Star Wars: Episode V - The Empire Strikes Back (1980),4.2156398104265405,211,Sci-Fi
+"Matrix, The (1999)",4.192446043165468,278,Sci-Fi
+Brazil (1985),4.177966101694915,59,Sci-Fi
+Eternal Sunshine of the Spotless Mind (2004),4.1603053435114505,131,Sci-Fi
+Ghost in the Shell (Kôkaku kidôtai) (1995),4.148148148148148,27,Sci-Fi
+Star Wars: Episode VI - Return of the Jedi (1983),4.137755102040816,196,Sci-Fi
+Blade Runner (1982),4.100806451612903,124,Sci-Fi
+"Grand Day Out with Wallace and Gromit, A (1989)",4.089285714285714,28,Sci-Fi
+Fight Club (1999),4.272935779816514,218,Thriller
+Touch of Evil (1958),4.264705882352941,17,Thriller
+Rear Window (1954),4.261904761904762,84,Thriller
+"Departed, The (2006)",4.252336448598131,107,Thriller
+"Manchurian Candidate, The (1962)",4.25,30,Thriller
+Notorious (1946),4.25,20,Thriller
+"Outlaw Josey Wales, The (1976)",4.25,18,Thriller
+"Usual Suspects, The (1995)",4.237745098039215,204,Thriller
+"Third Man, The (1949)",4.229166666666667,24,Thriller
+Miller's Crossing (1990),4.225,20,Thriller
