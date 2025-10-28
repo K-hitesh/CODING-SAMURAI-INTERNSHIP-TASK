@@ -413,7 +413,3 @@ Coding Samurai is an organization providing internship opportunities for student
 
 **Repository URL:** https://github.com/K-hitesh/CODING-SAMURAI-INTERNSHIP-TASK
 ```
-
-2. In the "Name your file" box, type:
-```
-   Project_5_Sales_Prediction/README.md
